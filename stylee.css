@@ -1,0 +1,25 @@
+.form{
+    color:rgb(124, 125, 201);
+    background-image: url(image.jpeg);
+    width: 500px;
+    height: 500px;
+    border-radius: 5%;
+    border:5px solid rgb(55, 19, 156);
+    margin-top:20px;
+    margin-left: 50px;
+    padding: 20px;
+ }
+ *{
+    margin:0;
+    padding:0;
+ }
+ body{
+    display:grid;
+    place-items: center;
+    background-color: rgb(87, 91, 143);
+ }
+ .header{
+    margin-top: 50px;
+    place-items: center;
+    color:rgb(195, 192, 209)
+ }
